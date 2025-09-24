@@ -12,7 +12,7 @@ Built to provide smooth gameplay with tactical covers and balanced areas for fai
 
 ## 📸 Preview
 
-![Preview 1][[(https://imgur.com/f1gFh0y)]](https://i.imgur.com/5WW348r.jpeg)
+![Preview 1](https://i.imgur.com/5WW348r.jpeg)
 ![Preview 2](https://i.imgur.com/YYYYY.png)  
 
 ---
