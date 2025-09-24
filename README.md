@@ -31,4 +31,4 @@ Built to provide smooth gameplay with tactical covers and balanced areas for fai
 2. Place the map folder inside your `resources` directory.  
 3. Add the following line to your `server.cfg`:  
    ```cfg
-ensure map-folder-name
+   ensure folder-map-name
