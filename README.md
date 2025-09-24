@@ -13,7 +13,7 @@ Built to provide smooth gameplay with tactical covers and balanced areas for fai
 ## 📸 Preview
 
 ![Preview 1](https://i.imgur.com/5WW348r.jpeg)
-![Preview 2](https://i.imgur.com/YYYYY.png)  
+![Preview 2](https://i.imgur.com/ZYTK8ro.jpeg)
 
 ---
 
@@ -31,4 +31,4 @@ Built to provide smooth gameplay with tactical covers and balanced areas for fai
 2. Place the map folder inside your `resources` directory.  
 3. Add the following line to your `server.cfg`:  
    ```cfg
-
+ensure map-folder-name
