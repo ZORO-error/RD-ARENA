@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 [![Stars](https://img.shields.io/github/stars/YourUserName/rd-arena-fight?style=social)](https://github.com/YourUserName/rd-arena-fight/stargazers)  
 
-Custom **FiveM PvP & Training Arena Map** designed for competitive fights and reflex training.  
+Custom **FiveM  & Training Arena Map** designed for competitive fights and reflex training.  
 Built to provide smooth gameplay with tactical covers and balanced areas for fair matches.
 
 ---
